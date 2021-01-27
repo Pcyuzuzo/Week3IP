@@ -1,5 +1,5 @@
 # DELANI STUDIO
-[Check it out](pcyuzuzo.github.io/week3ip/.)
+[Check it out](https://pcyuzuzo.github.io/Week3IP/)
 ​
 ## Description.
 A webpage for Delani studio which gives a detailed account about what they are, the services they offer, projects done so far and a contact page that the user can reach them to.
