@@ -37,4 +37,4 @@ A webpage for Delani studio which gives a detailed account about what they are, 
 > MIT License &copy 2021 Patience Cyuzuzo. 
 ​
 ## Collaborate
-To collaborate, reach me on [Email](PCyuzuzo320@daviscollege.com)
+To collaborate, reach me on (PCyuzuzo320@daviscollege.com)
